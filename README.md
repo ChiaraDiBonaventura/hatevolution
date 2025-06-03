@@ -1,6 +1,6 @@
-# 📝 Hatevolution: What Static Benchmarks Don't Tell Us
+# Hatevolution: What Static Benchmarks Don't Tell Us
 
-[![Preprint](https://img.shields.io/badge/Preprint-arXiv-red)](https://kclpure.kcl.ac.uk/ws/portalfiles/portal/336968227/2025_Hatevolution.pdf)
+[![Preprint](https://img.shields.io/badge/Preprint-arXiv-red)](https://kclpure.kcl.ac.uk/ws/portalfiles/portal/337039887/2025_Hatevolution.pdf)
 
 **TL-DR:** We design two novel time-sensitive experiments and associated metrics to empirically evaluate 20 state-of-the-art language models on evolving hate speech, and we show the temporal misalignment between static and time-sensitive evaluations.
 
